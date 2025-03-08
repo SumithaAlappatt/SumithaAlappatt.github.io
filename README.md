@@ -1,2 +1,2 @@
 # SumithaAlappatt.github.io
-This is for IoT AT1.
+This repository is part of the IoT AT1.
